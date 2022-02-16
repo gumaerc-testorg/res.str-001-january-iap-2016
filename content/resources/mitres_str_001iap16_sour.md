@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding spatial data.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/a8dcf343da76c175462947a68cd92d2a_MITRES_STR_001IAP16_Sour.pdf
+file: /media/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/a8dcf343da76c175462947a68cd92d2a_MITRES_STR_001IAP16_Sour.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Spatial Data
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: MITRES_STR_001IAP16_Sour.pdf
 uid: a8dcf343-da76-c175-4629-47a68cd92d2a

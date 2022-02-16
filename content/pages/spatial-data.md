@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Spatial Data
 uid: cd486526-6db2-7a4c-6d2a-83b8b78cef23
 ---

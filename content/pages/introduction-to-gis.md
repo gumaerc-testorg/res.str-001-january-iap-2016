@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Introduction to GIS
 uid: b500ca0a-cd5e-89c3-277a-5218c379bbb8
 ---

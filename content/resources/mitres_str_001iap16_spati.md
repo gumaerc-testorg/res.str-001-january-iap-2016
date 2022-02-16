@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains information regarding spatial statistics using
   GIS.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/ae9e1c3e67ee9d1b572a124dc922ec42_MITRES_STR_001IAP16_spati.pdf
+file: /media/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/ae9e1c3e67ee9d1b572a124dc922ec42_MITRES_STR_001IAP16_spati.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Spatial Statistics
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Spatial Statistics using GIS
 uid: ae9e1c3e-67ee-9d1b-572a-124dc922ec42

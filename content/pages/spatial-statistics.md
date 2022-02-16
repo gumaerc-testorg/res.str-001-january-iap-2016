@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Spatial Statistics
 uid: e50033f1-49a6-f59d-6646-e17cae4d4fc2
 ---

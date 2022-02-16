@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This is a special file for Regression example data.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/cac893d6dd6c462005ea99eafc8b2394_Autocorrelation_Example_Data.zip
+file: /media/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/cac893d6dd6c462005ea99eafc8b2394_Autocorrelation_Example_Data.zip
 file_type: application/zip
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Spatial Statistics
+parent_type: SupplementalResourceSection
 resourcetype: Other
 title: Autocorrelation_Example_Data.zip
 uid: cac893d6-dd6c-4620-05ea-99eafc8b2394

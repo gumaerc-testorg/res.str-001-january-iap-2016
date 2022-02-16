@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding QGIS exercise I.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/a29f5c524fb3f11120c88124905ec45e_MITRES_STR_001IAP16_QGISI.pdf
+file: /media/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/a29f5c524fb3f11120c88124905ec45e_MITRES_STR_001IAP16_QGISI.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Introduction to GIS
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: MITRES_STR_001IAP16_QGISI.pdf
 uid: a29f5c52-4fb3-f111-20c8-8124905ec45e
