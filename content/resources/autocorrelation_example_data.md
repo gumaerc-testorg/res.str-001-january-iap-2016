@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Spatial Statistics
 parent_type: SupplementalResourceSection
+parent_uid: e50033f1-49a6-f59d-6646-e17cae4d4fc2
 resourcetype: Other
 title: Autocorrelation_Example_Data.zip
 uid: cac893d6-dd6c-4620-05ea-99eafc8b2394

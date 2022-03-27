@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Introduction to GIS
 parent_type: SupplementalResourceSection
+parent_uid: b500ca0a-cd5e-89c3-277a-5218c379bbb8
 resourcetype: Other
 title: Sample_Data_IIb.zip
 uid: def0c148-3f1a-d7da-6f9b-b9fc616ffe1c

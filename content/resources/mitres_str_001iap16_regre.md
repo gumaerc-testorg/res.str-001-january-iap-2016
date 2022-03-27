@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Spatial Statistics
 parent_type: SupplementalResourceSection
+parent_uid: e50033f1-49a6-f59d-6646-e17cae4d4fc2
 resourcetype: Document
 title: MITRES_STR_001IAP16_Regre.pdf
 uid: b9f4b649-fce4-d327-c2c9-25a4f0ec11d0

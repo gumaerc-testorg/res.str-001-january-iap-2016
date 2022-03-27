@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Introduction to GIS
 parent_type: SupplementalResourceSection
+parent_uid: b500ca0a-cd5e-89c3-277a-5218c379bbb8
 resourcetype: Document
 title: MITRES_STR_001IAP16_ArGISI.pdf
 uid: 1dad9efd-1e84-ee7d-3fcb-235dae091841

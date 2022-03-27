@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Spatial Data
 parent_type: SupplementalResourceSection
+parent_uid: cd486526-6db2-7a4c-6d2a-83b8b78cef23
 resourcetype: Document
 title: All About Spatial Data
 uid: 23b7c5bd-5aa8-b062-f654-045b94ba2abf

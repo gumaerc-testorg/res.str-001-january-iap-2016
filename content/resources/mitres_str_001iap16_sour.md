@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Spatial Data
 parent_type: SupplementalResourceSection
+parent_uid: cd486526-6db2-7a4c-6d2a-83b8b78cef23
 resourcetype: Document
 title: MITRES_STR_001IAP16_Sour.pdf
 uid: a8dcf343-da76-c175-4629-47a68cd92d2a
