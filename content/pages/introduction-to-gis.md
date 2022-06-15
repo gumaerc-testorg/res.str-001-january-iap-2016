@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains two presentations introducing GIS and two practice
+  exercises for different software packages.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Introduction to GIS
@@ -31,13 +33,13 @@ SAMPLE DATA
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Introduction to GIS I (PDF - 4.7MB)]({{< baseurl >}}/resources/mitres_str_001iap16_gisi)
+{{% resource_link 5b24f942-b9d6-3593-81d3-934a9afa7377 "Introduction to GIS I (PDF - 4.7MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[ArcGIS Exercise I (PDF - 1.1MB)]({{< baseurl >}}/resources/mitres_str_001iap16_argisi)
+{{% resource_link 1dad9efd-1e84-ee7d-3fcb-235dae091841 "ArcGIS Exercise I (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[QGIS Exercise I (PDF - 1.3MB)]({{< baseurl >}}/resources/mitres_str_001iap16_qgisi)
+{{% resource_link a29f5c52-4fb3-f111-20c8-8124905ec45e "QGIS Exercise I (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 [Sample Data I (ZIP - 33.4MB)](/ans7870/RES/RES.STR-001/SampleDataI.zip) (This zip file contains 2.cts, 6.dbf, 6.prj, 8.shp, 4.xml, 6.shx, 4.sbn and .4sbx file.)
@@ -46,20 +48,20 @@ SAMPLE DATA
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Introduction to GIS II (PDF - 1.4MB)]({{< baseurl >}}/resources/mitres_str_001iap16_gisii)
+{{% resource_link a50b6e6b-6d8e-88e9-e653-fb02085724b1 "Introduction to GIS II (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[ArcGIS Exercise II (PDF - 1.1MB)]({{< baseurl >}}/resources/mitres_str_001iap16_argiii)
+{{% resource_link d9687220-3a19-00a5-9560-b3007abd03e3 "ArcGIS Exercise II (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[QGIS Exercise II (PDF - 1.4MB)]({{< baseurl >}}/resources/mitres_str_001iap16_qgisii)
+{{% resource_link d023fa54-e6b4-f869-ecbf-1d7519621f68 "QGIS Exercise II (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 [Sample Data IIa (ZIP - 11.6MB)](/ans7870/RES/RES.STR-001/SampleDataIIa.zip) (This zip files contains 3.cpj, 4.dbf, 4.prj, 3.sbn, 3.sbx, 4.shp, 3.xml, , 3.shx, 2.cpg and 1 Microsoft Excel Comma SperatedValue file.)
 
-[Sample Data IIb (ZIP - 2.4MB)]({{< baseurl >}}/resources/sample_data_iib) (This zip file contains 2.dbf, 2.prj, 3.shp, 2.shx, 1.sbn, 1.sbx. file.)
+{{% resource_link def0c148-3f1a-d7da-6f9b-b9fc616ffe1c "Sample Data IIb (ZIP - 2.4MB)" %}} (This zip file contains 2.dbf, 2.prj, 3.shp, 2.shx, 1.sbn, 1.sbx. file.)
 
 
 {{< tdclose >}}

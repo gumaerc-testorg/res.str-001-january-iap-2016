@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding ArcGIS exercise II.
-file: /media/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/d96872203a1900a59560b3007abd03e3_MITRES_STR_001IAP16_ArGIII.pdf
+file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/d96872203a1900a59560b3007abd03e3_MITRES_STR_001IAP16_ArGIII.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: MITRES_STR_001IAP16_ArGIII.pdf
 uid: d9687220-3a19-00a5-9560-b3007abd03e3
 ---
+This resource contains information regarding ArcGIS exercise II.
+

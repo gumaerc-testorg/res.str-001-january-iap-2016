@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: his section contains an introduction to spatial data and a list of online
+  resources for obtaining spatial data.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Spatial Data
@@ -20,13 +22,13 @@ RESOURCES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Introduction to Spatial Data (PDF - 3.1MB)]({{< baseurl >}}/resources/mitres_str_001iap16_intro)
+{{% resource_link 23b7c5bd-5aa8-b062-f654-045b94ba2abf "Introduction to Spatial Data (PDF - 3.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Sources of Spatial Data (PDF)]({{< baseurl >}}/resources/mitres_str_001iap16_sour)
+{{% resource_link a8dcf343-da76-c175-4629-47a68cd92d2a "Sources of Spatial Data (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
