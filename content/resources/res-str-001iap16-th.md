@@ -10,10 +10,10 @@ image_metadata:
   credit: Jennie Murack, MIT Geospatial Data Librarian.
   image-alt: A brightly colored image of virtually-generated buildings and streets.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-str-001iap16-th.jpg
 uid: 465756c7-23f4-15a4-d346-952796d589d4
 ---
 A map of Manhattan generated using GIS data. Jennie Murack, MIT Geospatial Data Librarian.
-

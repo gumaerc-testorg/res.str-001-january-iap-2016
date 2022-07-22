@@ -4,6 +4,7 @@ description: This resource contains information regarding QGIS exercise II.
 file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/d023fa54e6b4f869ecbf1d7519621f68_MITRES_STR_001IAP16_QGISII.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Introduction to GIS
 parent_type: SupplementalResourceSection
@@ -13,4 +14,3 @@ title: MITRES_STR_001IAP16_QGISII.pdf
 uid: d023fa54-e6b4-f869-ecbf-1d7519621f68
 ---
 This resource contains information regarding QGIS exercise II.
-
