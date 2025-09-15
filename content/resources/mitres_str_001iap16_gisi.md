@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding introduction to GIS.
-file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/5b24f942b9d6359381d3934a9afa7377_MITRES_STR_001IAP16_GISI.pdf
+file: /ol-ocw-studio-app/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/5b24f942b9d6359381d3934a9afa7377_MITRES_STR_001IAP16_GISI.pdf
+file_size: 4911664
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

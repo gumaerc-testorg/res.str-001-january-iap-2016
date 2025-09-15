@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding spatial data.
-file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/a8dcf343da76c175462947a68cd92d2a_MITRES_STR_001IAP16_Sour.pdf
+file: /ol-ocw-studio-app/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/a8dcf343da76c175462947a68cd92d2a_MITRES_STR_001IAP16_Sour.pdf
+file_size: 380320
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

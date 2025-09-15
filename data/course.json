@@ -2,7 +2,7 @@
   "term": "January IAP",
   "year": "2016",
   "level": [
-    "Non Credit"
+    "Non-Credit"
   ],
   "topics": [
     [
@@ -36,5 +36,7 @@
     "Programming Assignments"
   ],
   "site_uid": "54026aec-c710-4aff-b629-322e5c084135",
+  "site_short_id": "res.str-001-january-iap-2016",
+  "site_url_path": "courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016",
   "title": "Course Metadata"
 }

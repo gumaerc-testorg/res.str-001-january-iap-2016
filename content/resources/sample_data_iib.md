@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This is a special file for introduction to GIS.
-file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/def0c1483f1ad7da6f9bb9fc616ffe1c_Sample_Data_IIb.zip
+file: /ol-ocw-studio-app/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/def0c1483f1ad7da6f9bb9fc616ffe1c_Sample_Data_IIb.zip
+file_size: 2482220
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

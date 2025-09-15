@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding QGIS exercise I.
-file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/a29f5c524fb3f11120c88124905ec45e_MITRES_STR_001IAP16_QGISI.pdf
+file: /ol-ocw-studio-app/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/a29f5c524fb3f11120c88124905ec45e_MITRES_STR_001IAP16_QGISI.pdf
+file_size: 1343701
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

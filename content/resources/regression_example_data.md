@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This is a special file for Regression example data.
-file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/8d31ebc2a1b54e79784920a025b2e08a_Regression_Example_Data.zip
+file: /ol-ocw-studio-app/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/8d31ebc2a1b54e79784920a025b2e08a_Regression_Example_Data.zip
+file_size: 900038
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

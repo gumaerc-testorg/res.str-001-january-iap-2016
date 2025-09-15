@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding regression exercise.
-file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/b9f4b649fce4d327c2c925a4f0ec11d0_MITRES_STR_001IAP16_Regre.pdf
+file: /ol-ocw-studio-app/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/b9f4b649fce4d327c2c925a4f0ec11d0_MITRES_STR_001IAP16_Regre.pdf
+file_size: 1744532
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding ArcGIS exercise I.
-file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/1dad9efd1e84ee7d3fcb235dae091841_MITRES_STR_001IAP16_ArGISI.pdf
+file: /ol-ocw-studio-app/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/1dad9efd1e84ee7d3fcb235dae091841_MITRES_STR_001IAP16_ArGISI.pdf
+file_size: 1141640
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,7 +2,8 @@
 content_type: resource
 description: A map of Manhattan generated using GIS data. Jennie Murack, MIT Geospatial
   Data Librarian.
-file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/465756c723f415a4d346952796d589d4_res-str-001iap16-th.jpg
+file: /ol-ocw-studio-app/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/465756c723f415a4d346952796d589d4_res-str-001iap16-th.jpg
+file_size: 13417
 file_type: image/jpeg
 image_metadata:
   caption: A map of Manhattan generated using GIS data. (Jennie Murack, MIT Geospatial

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding GIS level 2.
-file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/a50b6e6b6d8e88e9e653fb02085724b1_MITRES_STR_001IAP16_GISII.pdf
+file: /ol-ocw-studio-app/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016/a50b6e6b6d8e88e9e653fb02085724b1_MITRES_STR_001IAP16_GISII.pdf
+file_size: 1415612
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
