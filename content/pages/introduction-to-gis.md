@@ -10,7 +10,7 @@ uid: b500ca0a-cd5e-89c3-277a-5218c379bbb8
 
 The following materials were drawn from two introductory GIS workshops given at MIT during IAP 2016 ![](/images/educator/icon-question-iap.png). They cover the basics of GIS, including data types, metadata, data sources, various GIS software options, multi-step GIS analysis, and automation.
 
-_Note: QGIS is a free and open source Geographic Information System maintained by the_ [_QGIS Project_](http://www.qgis.org/en/site/) _and is available to OCW users._ [_ArcGIS_](https://www.arcgis.com/features/) _is paid software available to the MIT community but not freely available to OCW users._
+_Note: QGIS is a free and open source Geographic Information System maintained by the_ {{% resource_link "fd1a92e1-faf5-4cf1-b36b-3d2f182f9624" "_QGIS Project_" %}} _and is available to OCW users._ {{% resource_link "d20374a3-d934-45f8-8025-2b2098ca313f" "_ArcGIS_" %}} _is paid software available to the MIT community but not freely available to OCW users._
 
 {{< tableopen >}}
 {{< theadopen >}}

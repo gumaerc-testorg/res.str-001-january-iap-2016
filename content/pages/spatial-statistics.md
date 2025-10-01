@@ -12,7 +12,7 @@ The following material was drawn from a workshop on Spatial Statistics given at 
 
 {{% resource_link ae9e1c3e-67ee-9d1b-572a-124dc922ec42 "Introduction to Spatial Statistics (PDF - 3.5MB)" %}}
 
-_Note: [ArcGIS](https://www.arcgis.com/features/) is a paid program available to the MIT Community. Geoda is a free program available from [Arizona State University](https://geodacenter.asu.edu/)._
+_Note: {{% resource_link "d20374a3-d934-45f8-8025-2b2098ca313f" "ArcGIS" %}} is a paid program available to the MIT Community. Geoda is a free program available from {{% resource_link "b021d657-c4d9-4138-b371-da8a9c71697d" "Arizona State University" %}}._
 
 {{< tableopen >}}
 {{< theadopen >}}
